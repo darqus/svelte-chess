@@ -788,9 +788,9 @@ check-error@^1.0.3:
     get-func-name "^2.0.2"
 
 chess.js@^1.0.0-beta.6:
-  version "1.0.0-beta.8"
-  resolved "https://registry.yarnpkg.com/chess.js/-/chess.js-1.0.0-beta.8.tgz#be5e73eabd49e272f41d26bc7fddc93cbcda912f"
-  integrity sha512-UngzUMXmexcQaQA/UEJuJj5vatEy34awYMD5YMOp/FW3HM7lqspp7ymYs5JAmquDq0WROtURRfSffoa/vrCCyw==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/chess.js/-/chess.js-1.1.0.tgz#25a100e38f423ae4838a7d9321bfa5532ba4a618"
+  integrity sha512-IfdeaJnpdU1LddIenp36O7Fz19nIxk3x4cznwo2Qf25T1XSeP85XRBrjWUsSpk1RpDeXdijraoLxXt3PCaudVg==
 
 chessground@^8.3.9:
   version "8.4.0"
